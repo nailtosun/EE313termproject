@@ -9,4 +9,5 @@ EE313 Analog Laboratory Term Project
   2.a Mic-Driver
   2.b Auto-Gain System
   2.c Mixer (Gilbert Cell Topology)
-  2.d Active Low Pass Filter (Sallen-Key Topology) 
+  2.d Active Low Pass Filter (Sallen-Key Topology)
+  I also added componont SPICE files check it out
